@@ -1,0 +1,14 @@
+{
+	"EEGChannelCount":67,
+	"EEGReference":"ref",
+	"InstitutionAddress":"Chongqing, China",
+	"InstitutionName":"University-Town Hospital of Chongqing Medical University",
+	"InstitutionalDepartmentName":"Mental Health Center",
+	"PowerLineFrequency":50,
+	"RecordingDuration":6909.4,
+	"SamplingFrequency":1000,
+	"SoftwareFilters":"n/a",
+	"TaskDescription":"Playing MOBA game",
+	"TaskName":"MOBA_game",
+	"TriggerChannelCount":1
+}
