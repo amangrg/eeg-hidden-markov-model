@@ -1,1 +1,13 @@
-../../.git/annex/objects/4z/JQ/SHA256E-s502--b4a71fc6ae7903fcf5997037a50006a34331ed02ec810cc1703bb094bf7dd65f.vmrk/SHA256E-s502--b4a71fc6ae7903fcf5997037a50006a34331ed02ec810cc1703bb094bf7dd65f.vmrk
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=sub-01_task-resting_eye_open_eeg.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "".
+Mk1=trigger,boundary,1,21228,0
+Mk2=trigger,boundary,418028,456445,0
