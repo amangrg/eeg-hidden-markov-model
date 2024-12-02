@@ -1,1 +1,67 @@
-../../.git/annex/objects/fX/pG/SHA256E-s1982--86e8b35b1e23c32920ac2406b2f43979ec06c42534d89ac598fa4801bea359c1.vmrk/SHA256E-s1982--86e8b35b1e23c32920ac2406b2f43979ec06c42534d89ac598fa4801bea359c1.vmrk
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=sub-02_task-MOBA_game_eeg.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "".
+Mk1=trigger,66,209931,0,0
+Mk2=trigger,13,432273,0,0
+Mk3=trigger,14,530575,0,0
+Mk4=trigger,13,587076,0,0
+Mk5=trigger,13,604600,0,0
+Mk6=trigger,14,663623,0,0
+Mk7=trigger,14,718304,0,0
+Mk8=trigger,14,835652,0,0
+Mk9=trigger,13,974571,0,0
+Mk10=trigger,666,993171,0,0
+Mk11=trigger,66,1218096,0,0
+Mk12=trigger,13,1397193,0,0
+Mk13=trigger,13,1829396,0,0
+Mk14=trigger,14,1881666,0,0
+Mk15=trigger,14,2101385,0,0
+Mk16=trigger,14,2195074,0,0
+Mk17=trigger,666,2349359,0,0
+Mk18=trigger,66,2602496,0,0
+Mk19=trigger,13,3066644,0,0
+Mk20=trigger,13,3091879,0,0
+Mk21=trigger,14,3094370,0,0
+Mk22=trigger,14,3179112,0,0
+Mk23=trigger,13,3266688,0,0
+Mk24=trigger,13,3306693,0,0
+Mk25=trigger,14,3312310,0,0
+Mk26=trigger,14,3383503,0,0
+Mk27=trigger,14,3443042,0,0
+Mk28=trigger,444,3466214,0,0
+Mk29=trigger,66,3883757,0,0
+Mk30=trigger,13,4063585,0,0
+Mk31=trigger,14,4300704,0,0
+Mk32=trigger,14,4443266,0,0
+Mk33=trigger,14,4648909,0,0
+Mk34=trigger,444,4665753,0,0
+Mk35=trigger,66,4947280,0,0
+Mk36=trigger,13,4989558,0,0
+Mk37=trigger,14,5039763,0,0
+Mk38=trigger,14,5100522,0,0
+Mk39=trigger,14,5157173,0,0
+Mk40=trigger,14,5241711,0,0
+Mk41=trigger,14,5302207,0,0
+Mk42=trigger,13,5352182,0,0
+Mk43=trigger,14,5374171,0,0
+Mk44=trigger,13,5517161,0,0
+Mk45=trigger,14,5548075,0,0
+Mk46=trigger,666,5660846,0,0
+Mk47=trigger,66,5891141,0,0
+Mk48=trigger,13,6162139,0,0
+Mk49=trigger,13,6191410,0,0
+Mk50=trigger,14,6191572,0,0
+Mk51=trigger,14,6310885,0,0
+Mk52=trigger,14,6412655,0,0
+Mk53=trigger,14,6581921,0,0
+Mk54=trigger,14,6670181,0,0
+Mk55=trigger,14,6723023,0,0
+Mk56=trigger,444,6857510,0,0

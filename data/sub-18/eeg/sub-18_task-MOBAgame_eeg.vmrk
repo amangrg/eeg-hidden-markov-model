@@ -1,1 +1,58 @@
-../../.git/annex/objects/p5/f2/SHA256E-s1733--1f86590d4ca9a007ce8a4315673a71702c2f1f22cb350a3819cdae3544cf7283.vmrk/SHA256E-s1733--1f86590d4ca9a007ce8a4315673a71702c2f1f22cb350a3819cdae3544cf7283.vmrk
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=sub-18_task-MOBA_game_eeg.eeg
+
+[Marker Infos]
+; Each entry: Mk<Marker number>=<Type>,<Description>,<Position in data points>,
+; <Size in data points>, <Channel number (0 = marker is related to all channels)>
+; Fields are delimited by commas, some fields might be omitted (empty).
+; Commas in type or description text are coded as "".
+Mk1=trigger,-255,1,0,0
+Mk2=trigger,66,138283,0,0
+Mk3=trigger,13,218110,0,0
+Mk4=trigger,13,505259,0,0
+Mk5=trigger,13,690939,0,0
+Mk6=trigger,13,774143,0,0
+Mk7=trigger,13,943837,0,0
+Mk8=trigger,666,973721,0,0
+Mk9=trigger,66,1156870,0,0
+Mk10=trigger,13,1315307,0,0
+Mk11=trigger,14,1316142,0,0
+Mk12=trigger,13,1362397,0,0
+Mk13=trigger,13,1428379,0,0
+Mk14=trigger,13,1620040,0,0
+Mk15=trigger,4,1721326,0,0
+Mk16=trigger,244,1721327,0,0
+Mk17=trigger,100008,1721328,0,0
+Mk18=trigger,14,1980764,0,0
+Mk19=trigger,444,2022385,0,0
+Mk20=trigger,66,2152098,0,0
+Mk21=trigger,13,2288825,0,0
+Mk22=trigger,13,2624606,0,0
+Mk23=trigger,13,2895361,0,0
+Mk24=trigger,13,2954333,0,0
+Mk25=trigger,13,3008176,0,0
+Mk26=trigger,13,3011173,0,0
+Mk27=trigger,666,3023604,0,0
+Mk28=trigger,66,3166288,0,0
+Mk29=trigger,13,3413085,0,0
+Mk30=trigger,13,3583101,0,0
+Mk31=trigger,13,3585233,0,0
+Mk32=trigger,13,3697408,0,0
+Mk33=trigger,13,3702859,0,0
+Mk34=trigger,666,3763122,0,0
+Mk35=trigger,66,3923417,0,0
+Mk36=trigger,13,4017776,0,0
+Mk37=trigger,666,4581118,0,0
+Mk38=trigger,66,4780065,0,0
+Mk39=trigger,13,5047501,0,0
+Mk40=trigger,14,5083958,0,0
+Mk41=trigger,13,5172275,0,0
+Mk42=trigger,13,5372161,0,0
+Mk43=trigger,14,5458418,0,0
+Mk44=trigger,14,5536201,0,0
+Mk45=trigger,13,5593589,0,0
+Mk46=trigger,14,5601030,0,0
+Mk47=trigger,444,5620391,0,0
